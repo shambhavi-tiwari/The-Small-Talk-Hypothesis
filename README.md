@@ -16,10 +16,10 @@ This project investigates how model size affects explainability in transformer-b
 
 ### 🧰 How to Run
 1. **Clone this repository:**
- ````
+   ```bash
    git clone https://github.com/shambhavi-tiwari/The-Small-Talk-Hypothesis.git
    cd The-Small-Talk-Hypothesis
-````
+   ```
 
 2. **Install dependencies:**
 
